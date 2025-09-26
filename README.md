@@ -31,4 +31,4 @@ The data was collected from open, publicly available resources. It is used here 
 ---
 
 # AI Declaration  
-Some parts of this project, including code snippets (HTML, CSS, JavaScript), written explanations, and text for the README, were generated or improved using **GenAI (ChatGPT)**. All AI-assisted content was reviewed, adapted, and verified by the author to ensure accuracy and relevance.  
+Some parts of this project, including code snippets (HTML, CSS, JavaScript), were generated or improved using GenAI. All AI-assisted content was reviewed, adapted, and verified by the author to ensure accuracy and relevance.  
